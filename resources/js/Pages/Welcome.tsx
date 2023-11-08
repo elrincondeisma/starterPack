@@ -11,7 +11,6 @@ export default function Welcome({ auth, laravelVersion, phpVersion }: PageProps<
                     <h1 className="mb-4 text-4xl font-extrabold tracking-tight leading-none  md:text-5xl lg:text-6xl text-white">Laravel Starter Pack</h1>
                     <p className="mb-8 text-lg font-normal lg:text-xl sm:px-16 lg:px-48 text-gray-400">Free starter pack with Laravel + Breeze + React + Shadcn UI</p>
                     <p className="mb-8 text-lg font-normal lg:text-xl sm:px-16 lg:px-48 text-gray-400">Designed by <a href='https://www.youtube.com/@elrincondeisma?sub_confirmation=1' target='_blank'>El Rincón de Isma</a></p>
-                    
                 </div>
             </section>
             
